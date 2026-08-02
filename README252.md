@@ -36,7 +36,11 @@ Earlier versions of this project relied on fixed-size static arrays (which riske
 
 ```bash
 
-gcc eg252.c -o student\_manager
+gcc eg252.c -o student_manager
 
-./student\_manager
+For Windows :
+student_manager or student_manager.exe
+
+For Linux :
+./student_manager
 
