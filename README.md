@@ -1,4 +1,4 @@
-\# Student Data Management System in C (`eg230.c`)
+\# Student Data Management System in C 
 
 
 
@@ -26,7 +26,7 @@ A light, menu-driven CLI (Command Line Interface) application written in standar
 
 \### Prerequisites
 
-\- GCC compiler installed (`gcc --version`)
+\- GCC compiler installed 
 
 
 
@@ -34,17 +34,17 @@ A light, menu-driven CLI (Command Line Interface) application written in standar
 
 ```bash
 
-gcc eg230.c -o student\_manager
+gcc eg230.c -o student_manager
 
 
 
 \# On Windows:
 
-student\_manager.exe
+student_manager.exe
 
 
 
 \# On Linux / macOS:
 
-./student\_manager
+./student_manager
 
